@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Геннадий",
+    "last_name": "Петров",
+    "age": 44,
+    "salary": 25000,
+    "working_hours": 6,
+    "experience": 12,
+    "work_place": "Ozon",
+    "action": {
+      "id": 1,
+      "name": "Продажа",
+      "time_to_complete": 3
+    }
+  },
+  {
+    "id": 2,
+    "name": "Петр",
+    "last_name": "Иванов",
+    "age": 35,
+    "salary": 20000,
+    "working_hours": 6,
+    "experience": 5,
+    "work_place": "Ozon",
+    "action": {
+      "id": 1,
+      "name": "Сайт",
+      "time_to_complete": 5
+    }
+  },
+  {
+    "id": 3,
+    "name": "Иван",
+    "last_name": "Петров",
+    "age": 34,
+    "salary": 24000,
+    "working_hours": 8,
+    "experience": 11,
+    "work_place": "Ozon",
+    "action": {
+      "id": 1,
+      "name": "Продажа",
+      "time_to_complete": 3
+    }
+  },
+  {
+    "id": 4,
+    "name": "Алексей",
+    "last_name": "Петров",
+    "age": 24,
+    "salary": 40000,
+    "working_hours": 6,
+    "experience": 4,
+    "work_place": "Ozon",
+    "action": {
+      "id": 1,
+      "name": "Продажа",
+      "time_to_complete": 3
+    }
+  }
+]
